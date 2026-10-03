@@ -1,0 +1,25 @@
+{
+  "application_id": "APP-1042",
+  "payslip": {
+    "employer": "Northwind Ltd",
+    "employee_name": "Alex Morgan",
+    "pay_period": "2026-09",
+    "gross_monthly_income": 6000.00,
+    "total_deductions": 1700.00,
+    "net_monthly_income": 4300.00
+  },
+  "bank_statement": {
+    "account_holder": "Alex Morgan",
+    "account_last4": "4821",
+    "months_covered": 6,
+    "avg_monthly_deposits": 4300.00,
+    "salary_source": "Northwind Ltd",
+    "recurring_obligations": [
+      {"payee": "Citi Auto", "monthly_amount": 600.00},
+      {"payee": "Credit card minimum", "monthly_amount": 300.00}
+    ],
+    "monthly_debt_obligations": 900.00,
+    "closing_balance": 4037.16
+  },
+  "name_match": true
+}
